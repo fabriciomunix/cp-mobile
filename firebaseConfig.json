@@ -1,0 +1,9 @@
+{
+  "apiKey": "SUA_API_KEY",
+  "authDomain": "cp-mobile.firebaseapp.com",
+  "databaseURL": "https://cp-mobile-default-rtdb.firebaseio.com",
+  "projectId": "cp-mobile",
+  "storageBucket": "cp-mobile.appspot.com",
+  "messagingSenderId": "SEU_SENDER_ID",
+  "appId": "SEU_APP_ID"
+}
